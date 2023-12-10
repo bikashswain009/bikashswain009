@@ -8,13 +8,13 @@ I'm a passionate web-developer based in Bhubaneswar. My journey in the world of 
 
 ### - 🚀 TodoList: A simple command line "ToDoList" using python.
               Features:
-              - Update the task.
-              - Delete the task.
-              - Add the task.
-              - Save and Exit the task.
+              1. Update the task.
+              2. Delete the task.
+              3. Add the task.
+              4. Save and Exit the task.
               
 ### - 🌐 Portfolio: A responsive portfolio using HTML, CSS, BOOTSTRAP.
-              - Features:
+              Features:
               1. Mobile Responsive
               2. Dynamic
               3. Simple
