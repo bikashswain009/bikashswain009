@@ -6,20 +6,20 @@ I'm a passionate web-developer based in Bhubaneswar. My journey in the world of 
 
 ### Current Projects
 
-**- 🚀 TodoList: A simple command line "ToDoList" using python.**
+### - 🚀 TodoList: A simple command line "ToDoList" using python.
               Features:
               - Update the task.
               - Delete the task.
               - Add the task.
               - Save and Exit the task.
               
-**- 🌐 Portfolio: A responsive portfolio using HTML, CSS, BOOTSTRAP.**
-              Features:
+### - 🌐 Portfolio: A responsive portfolio using HTML, CSS, BOOTSTRAP.
+              - Features:
               1. Mobile Responsive
               2. Dynamic
               3. Simple
 
-**- ⚙️ Inventory Management System: Brief description or key features.**
+### - ⚙️ Inventory Management System: Brief description or key features.
               Features:
               1. User Friendly
               2. Keep track the quantity, price of the goods
